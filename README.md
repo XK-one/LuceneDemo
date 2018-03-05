@@ -1,0 +1,2 @@
+# LuceneDemo
+learn lucene
